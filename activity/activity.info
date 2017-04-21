@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Connect4 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.connect4Activity
+bundle_id = net.gcompris.connect4Activity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
